@@ -1,0 +1,28 @@
+{
+  "name": "ahadc-ngrep",
+  "version": "1.0.0",
+  "description": "A grep command implementation in JavaScript (ES2015), running on Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "eslint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulchowdhury-dsi/ahadc-ngrep.git"
+  },
+  "keywords": [
+    "grep",
+    "node",
+    "es2015",
+    "es6",
+    "javascript",
+    "js"
+  ],
+  "author": "ahad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulchowdhury-dsi/ahadc-ngrep/issues"
+  },
+  "homepage": "https://github.com/abdulchowdhury-dsi/ahadc-ngrep#readme"
+}

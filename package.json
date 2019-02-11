@@ -4,8 +4,8 @@
   "description": "A grep command implementation in JavaScript (ES2015), running on Node.js.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "eslint index.js"
+    "start": "node ngrep.js",
+    "test": "eslint ngrep.js"
   },
   "repository": {
     "type": "git",

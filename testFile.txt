@@ -1,6 +1,6 @@
-My name is Ahad.
+My name is ahad.
 I graduated from NSU in CSE.
 I am a dev at DSi.
-The name is Ahad, Abdul Ahad.
-Ahad is new to JavaScript.
+The name is ahad, abdul ahad.
+ahad is new to JavaScript.
 ASP.NET is the area of expertise of Ahad.

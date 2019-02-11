@@ -15,8 +15,4 @@ let iLineReader = rl.createInterface({
   input: fs.createReadStream(fileName)
 });
 
-iLineReader.on('line', function(line) {
-  if (~line.indexOf(queryString)) {
-    console.log(line);
-  }
-});
+iLineReader.on('line', ln => ~ln.indexOf(queryString) && console.log(ln));
